@@ -1,0 +1,169 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>@ViewData["Title"] - MovieRental</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+
+    <style>
+        body {
+            margin: 0;
+            background-color: #141414;
+            color: #f5f5f5;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            overflow-x: hidden;
+        }
+
+        .navbar {
+            background-color: rgba(0,0,0,0.7) !important;
+            backdrop-filter: blur(10px);
+            padding: 0.75rem 2rem;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.4);
+        }
+
+        .navbar-brand {
+            font-weight: 800;
+            font-size: 1.8rem;
+            color: #e50914 !important;
+            letter-spacing: 1px;
+        }
+
+        .nav-link {
+            color: #f5f5f5 !important;
+            font-weight: 500;
+            transition: color 0.2s ease-in-out;
+        }
+
+            .nav-link:hover {
+                color: #e50914 !important;
+            }
+
+        main {
+            padding-top: 100px;
+            padding-bottom: 60px;
+            min-height: calc(100vh - 160px);
+            background: url('/images/background.jpg') center/cover no-repeat fixed;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+            main h1 {
+                font-size: 4rem;
+                font-weight: 800;
+                margin-bottom: 1rem;
+                text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+            }
+
+        .card {
+            background-color: rgba(255,255,255,0.05);
+            border: none;
+            border-radius: 8px;
+            padding: 1.5rem;
+            width: 100%;
+            max-width: 500px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+            color: #f5f5f5;
+        }
+
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+
+        .user-avatar {
+            width: 40px;
+            height: 40px;
+            background-color: rgba(255,255,255,0.1);
+            color: #f5f5f5;
+            font-size: 1.5rem;
+        }
+
+        .username {
+            color: #e50914;
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+    @using MovieRental.DataAccess
+    @using MovieRental.Domain.Models
+    @inject MovieRentalContext _context
+    @{
+        var userId = Context.Session.GetInt32("UserId");
+        User loggedUser = null;
+        if (userId.HasValue)
+        {
+            loggedUser = _context.Users.FirstOrDefault(u => u.Id == userId.Value);
+        }
+    }
+
+    <nav class="navbar navbar-expand-sm">
+        <div class="container">
+            <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">MovieRental</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav ms-auto">
+                    @if (loggedUser == null)
+                    {
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Login" asp-action="Index">Login</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Register" asp-action="Index">Register</a>
+                        </li>
+                    }
+                    else
+                    {
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle d-flex align-items-center" href="#" id="accountDropdown"
+                               role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                <span class="user-avatar rounded-circle d-flex justify-content-center align-items-center">
+                                    <i class="bi bi-person-circle"></i>
+                                </span>
+                            </a>
+                            <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="accountDropdown">
+                                <li><span class="dropdown-item-text username">Hello, @loggedUser.FullName</span></li>
+                                <li><a class="dropdown-item" asp-controller="Account" asp-action="Index"><i class="bi bi-person-badge me-2"></i>Your Account</a></li>
+                                <li>
+                                    <a class="dropdown-item" asp-controller="Rental" asp-action="ReturnList">
+                                        <i class="bi bi-collection-play me-2"></i>Manage Returns
+                                    </a>
+                                </li>
+                                <li><hr class="dropdown-divider" /></li>
+                                <li><a class="dropdown-item" asp-controller="Account" asp-action="Logout"><i class="bi bi-box-arrow-right me-2"></i>Logout</a></li>
+                            </ul>
+                        </li>
+                    }
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <main role="main">
+        @RenderBody()
+    </main>
+
+    <footer>
+        &copy; 2025 MovieRental
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

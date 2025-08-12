@@ -1,0 +1,41 @@
+﻿@model IEnumerable<MovieRental.Domain.Models.Movie>
+@using MovieRental.Domain.Models
+
+@{
+    ViewData["Title"] = "Home";
+    var user = ViewBag.LoggedInUser as User;
+}
+
+<h1>Welcome</h1>
+
+<h3 class="mt-5 mb-2">All Movies</h3>
+
+<div class="row">
+    @foreach (var movie in Model)
+    {
+        <div class="col-md-4 mb-4">
+            <div class="card bg-dark text-white h-100 position-relative">
+                <div class="card-body">
+                    <h5 class="card-title mb-1">@movie.Title</h5>
+                    <p class="mb-1"><strong>Genre:</strong> @movie.Genre</p>
+                    <p class="mb-1"><strong>Language:</strong> @movie.Language</p>
+
+                    <div class="mt-2">
+                        @if (movie.Quantity == 0)
+                        {
+                            <span class="badge bg-danger">Unavailable</span>
+                        }
+                        else
+                        {
+                            <span class="badge bg-success">Available</span>
+                        }
+                    </div>
+                </div>
+
+                <div class="card-footer border-0 bg-transparent">
+                    <a asp-action="Details" asp-route-id="@movie.Id" class="btn btn-outline-light btn-sm">Details</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>

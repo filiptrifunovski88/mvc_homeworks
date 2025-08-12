@@ -1,0 +1,55 @@
+﻿@model MovieRental.Dtos.ViewModels.UserRegisterViewModel
+
+<style>
+    html, body {
+        height: 100%;
+        margin: 0;
+        overflow: hidden;
+    }
+
+    footer {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        background-color: #333;
+        color: white;
+        text-align: center;
+        padding: 10px 0;
+        z-index: 1000;
+    }
+</style>
+
+<div class="d-flex align-items-center justify-content-center min-vh-100" style="background: url('/images/background.jpg') no-repeat center center fixed; background-size: cover;">
+    <div class="p-4 rounded shadow" style="width: 380px; background-color: #111; color: white; margin-bottom: 320px;">
+        <h3 class="mb-3 text-center fw-bold" style="color: #e50914; font-size: 2rem;">Sign Up</h3>
+
+        <form asp-action="Index" method="post" novalidate>
+            <div class="mb-3">
+                <label asp-for="FullName" class="form-label fw-semibold" style="color: white; font-size: 1rem;"></label>
+                <input asp-for="FullName" class="form-control form-control-md bg-secondary text-white border-0" />
+                <span asp-validation-for="FullName" class="text-danger small"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Age" class="form-label fw-semibold" style="color: white; font-size: 1rem;"></label>
+                <input asp-for="Age" type="number" class="form-control form-control-md bg-secondary text-white border-0" />
+                <span asp-validation-for="Age" class="text-danger small"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="CardNumber" class="form-label fw-semibold" style="color: white; font-size: 1rem;"></label>
+                <input asp-for="CardNumber" class="form-control form-control-md bg-secondary text-white border-0" />
+                <span asp-validation-for="CardNumber" class="text-danger small"></span>
+            </div>
+
+            <button type="submit" class="btn btn-danger w-100 fw-bold mt-3 btn-md">
+                Sign Up
+            </button>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

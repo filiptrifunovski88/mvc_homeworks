@@ -1,0 +1,16 @@
+D:\QINSHIFT\PROEKTI\Homeworks\mvc_homeworks\homework01\MovieRental\MovieRental.Dtos\bin\Debug\net8.0\MovieRental.Dtos.deps.json
+D:\QINSHIFT\PROEKTI\Homeworks\mvc_homeworks\homework01\MovieRental\MovieRental.Dtos\bin\Debug\net8.0\MovieRental.Dtos.dll
+D:\QINSHIFT\PROEKTI\Homeworks\mvc_homeworks\homework01\MovieRental\MovieRental.Dtos\bin\Debug\net8.0\MovieRental.Dtos.pdb
+D:\QINSHIFT\PROEKTI\Homeworks\mvc_homeworks\homework01\MovieRental\MovieRental.Dtos\obj\Debug\net8.0\MovieRental.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\QINSHIFT\PROEKTI\Homeworks\mvc_homeworks\homework01\MovieRental\MovieRental.Dtos\obj\Debug\net8.0\MovieRental.Dtos.AssemblyInfoInputs.cache
+D:\QINSHIFT\PROEKTI\Homeworks\mvc_homeworks\homework01\MovieRental\MovieRental.Dtos\obj\Debug\net8.0\MovieRental.Dtos.AssemblyInfo.cs
+D:\QINSHIFT\PROEKTI\Homeworks\mvc_homeworks\homework01\MovieRental\MovieRental.Dtos\obj\Debug\net8.0\MovieRental.Dtos.csproj.CoreCompileInputs.cache
+D:\QINSHIFT\PROEKTI\Homeworks\mvc_homeworks\homework01\MovieRental\MovieRental.Dtos\obj\Debug\net8.0\MovieRental.Dtos.sourcelink.json
+D:\QINSHIFT\PROEKTI\Homeworks\mvc_homeworks\homework01\MovieRental\MovieRental.Dtos\obj\Debug\net8.0\MovieRental.Dtos.dll
+D:\QINSHIFT\PROEKTI\Homeworks\mvc_homeworks\homework01\MovieRental\MovieRental.Dtos\obj\Debug\net8.0\refint\MovieRental.Dtos.dll
+D:\QINSHIFT\PROEKTI\Homeworks\mvc_homeworks\homework01\MovieRental\MovieRental.Dtos\obj\Debug\net8.0\MovieRental.Dtos.pdb
+D:\QINSHIFT\PROEKTI\Homeworks\mvc_homeworks\homework01\MovieRental\MovieRental.Dtos\obj\Debug\net8.0\ref\MovieRental.Dtos.dll
+D:\QINSHIFT\PROEKTI\Homeworks\mvc_homeworks\homework01\MovieRental\MovieRental.Dtos\bin\Debug\net8.0\MovieRental.Domain.dll
+D:\QINSHIFT\PROEKTI\Homeworks\mvc_homeworks\homework01\MovieRental\MovieRental.Dtos\bin\Debug\net8.0\MovieRental.Domain.pdb
+D:\QINSHIFT\PROEKTI\Homeworks\mvc_homeworks\homework01\MovieRental\MovieRental.Dtos\obj\Debug\net8.0\MovieRental.Dtos.csproj.AssemblyReference.cache
+D:\QINSHIFT\PROEKTI\Homeworks\mvc_homeworks\homework01\MovieRental\MovieRental.Dtos\obj\Debug\net8.0\MovieRen.54D20683.Up2Date

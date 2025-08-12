@@ -1,0 +1,12 @@
+D:\QINSHIFT\PROEKTI\Homeworks\mvc_homeworks\homework01\MovieRental\MovieRental.Domain\bin\Debug\net8.0\MovieRental.Domain.deps.json
+D:\QINSHIFT\PROEKTI\Homeworks\mvc_homeworks\homework01\MovieRental\MovieRental.Domain\bin\Debug\net8.0\MovieRental.Domain.dll
+D:\QINSHIFT\PROEKTI\Homeworks\mvc_homeworks\homework01\MovieRental\MovieRental.Domain\bin\Debug\net8.0\MovieRental.Domain.pdb
+D:\QINSHIFT\PROEKTI\Homeworks\mvc_homeworks\homework01\MovieRental\MovieRental.Domain\obj\Debug\net8.0\MovieRental.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\QINSHIFT\PROEKTI\Homeworks\mvc_homeworks\homework01\MovieRental\MovieRental.Domain\obj\Debug\net8.0\MovieRental.Domain.AssemblyInfoInputs.cache
+D:\QINSHIFT\PROEKTI\Homeworks\mvc_homeworks\homework01\MovieRental\MovieRental.Domain\obj\Debug\net8.0\MovieRental.Domain.AssemblyInfo.cs
+D:\QINSHIFT\PROEKTI\Homeworks\mvc_homeworks\homework01\MovieRental\MovieRental.Domain\obj\Debug\net8.0\MovieRental.Domain.csproj.CoreCompileInputs.cache
+D:\QINSHIFT\PROEKTI\Homeworks\mvc_homeworks\homework01\MovieRental\MovieRental.Domain\obj\Debug\net8.0\MovieRental.Domain.sourcelink.json
+D:\QINSHIFT\PROEKTI\Homeworks\mvc_homeworks\homework01\MovieRental\MovieRental.Domain\obj\Debug\net8.0\MovieRental.Domain.dll
+D:\QINSHIFT\PROEKTI\Homeworks\mvc_homeworks\homework01\MovieRental\MovieRental.Domain\obj\Debug\net8.0\refint\MovieRental.Domain.dll
+D:\QINSHIFT\PROEKTI\Homeworks\mvc_homeworks\homework01\MovieRental\MovieRental.Domain\obj\Debug\net8.0\MovieRental.Domain.pdb
+D:\QINSHIFT\PROEKTI\Homeworks\mvc_homeworks\homework01\MovieRental\MovieRental.Domain\obj\Debug\net8.0\ref\MovieRental.Domain.dll

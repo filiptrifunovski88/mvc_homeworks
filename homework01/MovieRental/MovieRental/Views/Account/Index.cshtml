@@ -1,0 +1,21 @@
+﻿@model MovieRental.Domain.Models.User
+
+@{
+    ViewData["Title"] = "Your Account";
+}
+
+<h1>Your Account</h1>
+
+<div class="card mt-4" style="background-color: rgba(0,0,0,0.5); color: white; border: none;">
+    <div class="card-body">
+        <h4 class="card-title"><strong>Full Name: </strong>( @Model.FullName )</h4>
+        <p class="card-text"><strong>Age:</strong> @Model.Age</p>
+        <p class="card-text"><strong>Card Number:</strong> @Model.CardNumber</p>
+        <p class="card-text"><strong>Subscription Type:</strong> @Model.SubscriptionType</p>
+        <p class="card-text"><strong>Subscription Expired:</strong> @(Model.IsSubscriptionExpired ? "Yes" : "No")</p>
+        <p class="card-text"><strong>Created On:</strong> @Model.CreatedOn.ToString("dd-MM-yyyy")</p>
+    </div>
+</div>
+<div class="mt-3">
+    <a asp-controller="Home" asp-action="Index" class="btn btn-danger">Back</a>
+</div>
