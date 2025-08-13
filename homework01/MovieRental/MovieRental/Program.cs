@@ -24,6 +24,14 @@ builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
 
+// 📌 Автоматски сеедирање на базата при старт
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+    var context = services.GetRequiredService<MovieRentalContext>();
+    DatabaseSeeder.Seed(context);
+}
+
 if (app.Environment.IsDevelopment())
 {
     app.UseDeveloperExceptionPage();

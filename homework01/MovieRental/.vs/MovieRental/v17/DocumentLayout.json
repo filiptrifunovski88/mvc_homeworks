@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{08AFD57D-9669-4259-A240-53316FAF05BE}|MovieRental.DataAccess\\MovieRental.DataAccess.csproj|d:\\qinshift\\proekti\\homeworks\\mvc_homeworks\\homework01\\movierental\\movierental.dataaccess\\databaseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08AFD57D-9669-4259-A240-53316FAF05BE}|MovieRental.DataAccess\\MovieRental.DataAccess.csproj|solutionrelative:movierental.dataaccess\\databaseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E77CA63E-D9C4-4533-B14B-0671477E7CFB}|MovieRental.Domain\\MovieRental.Domain.csproj|d:\\qinshift\\proekti\\homeworks\\mvc_homeworks\\homework01\\movierental\\movierental.domain\\enums\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E77CA63E-D9C4-4533-B14B-0671477E7CFB}|MovieRental.Domain\\MovieRental.Domain.csproj|solutionrelative:movierental.domain\\enums\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E77CA63E-D9C4-4533-B14B-0671477E7CFB}|MovieRental.Domain\\MovieRental.Domain.csproj|d:\\qinshift\\proekti\\homeworks\\mvc_homeworks\\homework01\\movierental\\movierental.domain\\enums\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E77CA63E-D9C4-4533-B14B-0671477E7CFB}|MovieRental.Domain\\MovieRental.Domain.csproj|solutionrelative:movierental.domain\\enums\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08AFD57D-9669-4259-A240-53316FAF05BE}|MovieRental.DataAccess\\MovieRental.DataAccess.csproj|d:\\qinshift\\proekti\\homeworks\\mvc_homeworks\\homework01\\movierental\\movierental.dataaccess\\movierentalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08AFD57D-9669-4259-A240-53316FAF05BE}|MovieRental.DataAccess\\MovieRental.DataAccess.csproj|solutionrelative:movierental.dataaccess\\movierentalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E77CA63E-D9C4-4533-B14B-0671477E7CFB}|MovieRental.Domain\\MovieRental.Domain.csproj|d:\\qinshift\\proekti\\homeworks\\mvc_homeworks\\homework01\\movierental\\movierental.domain\\models\\cast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E77CA63E-D9C4-4533-B14B-0671477E7CFB}|MovieRental.Domain\\MovieRental.Domain.csproj|solutionrelative:movierental.domain\\models\\cast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24378ABE-0CE8-4563-B10A-FFDBCFC95713}|MovieRental\\MovieRental.csproj|d:\\qinshift\\proekti\\homeworks\\mvc_homeworks\\homework01\\movierental\\movierental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24378ABE-0CE8-4563-B10A-FFDBCFC95713}|MovieRental\\MovieRental.csproj|solutionrelative:movierental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24378ABE-0CE8-4563-B10A-FFDBCFC95713}|MovieRental\\MovieRental.csproj|d:\\qinshift\\proekti\\homeworks\\mvc_homeworks\\homework01\\movierental\\movierental\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{24378ABE-0CE8-4563-B10A-FFDBCFC95713}|MovieRental\\MovieRental.csproj|solutionrelative:movierental\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24378ABE-0CE8-4563-B10A-FFDBCFC95713}|MovieRental\\MovieRental.csproj|d:\\qinshift\\proekti\\homeworks\\mvc_homeworks\\homework01\\movierental\\movierental\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24378ABE-0CE8-4563-B10A-FFDBCFC95713}|MovieRental\\MovieRental.csproj|solutionrelative:movierental\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24378ABE-0CE8-4563-B10A-FFDBCFC95713}|MovieRental\\MovieRental.csproj|d:\\qinshift\\proekti\\homeworks\\mvc_homeworks\\homework01\\movierental\\movierental\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24378ABE-0CE8-4563-B10A-FFDBCFC95713}|MovieRental\\MovieRental.csproj|solutionrelative:movierental\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{24378ABE-0CE8-4563-B10A-FFDBCFC95713}|MovieRental\\MovieRental.csproj|d:\\qinshift\\proekti\\homeworks\\mvc_homeworks\\homework01\\movierental\\movierental\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{24378ABE-0CE8-4563-B10A-FFDBCFC95713}|MovieRental\\MovieRental.csproj|solutionrelative:movierental\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -37,18 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{24378ABE-0CE8-4563-B10A-FFDBCFC95713}|MovieRental\\MovieRental.csproj|d:\\qinshift\\proekti\\homeworks\\mvc_homeworks\\homework01\\movierental\\movierental\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24378ABE-0CE8-4563-B10A-FFDBCFC95713}|MovieRental\\MovieRental.csproj|solutionrelative:movierental\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24378ABE-0CE8-4563-B10A-FFDBCFC95713}|MovieRental\\MovieRental.csproj|d:\\qinshift\\proekti\\homeworks\\mvc_homeworks\\homework01\\movierental\\movierental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24378ABE-0CE8-4563-B10A-FFDBCFC95713}|MovieRental\\MovieRental.csproj|solutionrelative:movierental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24378ABE-0CE8-4563-B10A-FFDBCFC95713}|MovieRental\\MovieRental.csproj|d:\\qinshift\\proekti\\homeworks\\mvc_homeworks\\homework01\\movierental\\movierental\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24378ABE-0CE8-4563-B10A-FFDBCFC95713}|MovieRental\\MovieRental.csproj|solutionrelative:movierental\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24378ABE-0CE8-4563-B10A-FFDBCFC95713}|MovieRental\\MovieRental.csproj|d:\\qinshift\\proekti\\homeworks\\mvc_homeworks\\homework01\\movierental\\movierental\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24378ABE-0CE8-4563-B10A-FFDBCFC95713}|MovieRental\\MovieRental.csproj|solutionrelative:movierental\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24378ABE-0CE8-4563-B10A-FFDBCFC95713}|MovieRental\\MovieRental.csproj|d:\\qinshift\\proekti\\homeworks\\mvc_homeworks\\homework01\\movierental\\movierental\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -95,10 +119,6 @@
       "RelativeMoniker": "D:0:0:{E77CA63E-D9C4-4533-B14B-0671477E7CFB}|MovieRental.Domain\\MovieRental.Domain.csproj|solutionrelative:movierental.domain\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E77CA63E-D9C4-4533-B14B-0671477E7CFB}|MovieRental.Domain\\MovieRental.Domain.csproj|d:\\qinshift\\proekti\\homeworks\\mvc_homeworks\\homework01\\movierental\\movierental.domain\\models\\cast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E77CA63E-D9C4-4533-B14B-0671477E7CFB}|MovieRental.Domain\\MovieRental.Domain.csproj|solutionrelative:movierental.domain\\models\\cast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E77CA63E-D9C4-4533-B14B-0671477E7CFB}|MovieRental.Domain\\MovieRental.Domain.csproj|d:\\qinshift\\proekti\\homeworks\\mvc_homeworks\\homework01\\movierental\\movierental.domain\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E77CA63E-D9C4-4533-B14B-0671477E7CFB}|MovieRental.Domain\\MovieRental.Domain.csproj|solutionrelative:movierental.domain\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -109,18 +129,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E77CA63E-D9C4-4533-B14B-0671477E7CFB}|MovieRental.Domain\\MovieRental.Domain.csproj|d:\\qinshift\\proekti\\homeworks\\mvc_homeworks\\homework01\\movierental\\movierental.domain\\enums\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E77CA63E-D9C4-4533-B14B-0671477E7CFB}|MovieRental.Domain\\MovieRental.Domain.csproj|solutionrelative:movierental.domain\\enums\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E77CA63E-D9C4-4533-B14B-0671477E7CFB}|MovieRental.Domain\\MovieRental.Domain.csproj|d:\\qinshift\\proekti\\homeworks\\mvc_homeworks\\homework01\\movierental\\movierental.domain\\enums\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E77CA63E-D9C4-4533-B14B-0671477E7CFB}|MovieRental.Domain\\MovieRental.Domain.csproj|solutionrelative:movierental.domain\\enums\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E77CA63E-D9C4-4533-B14B-0671477E7CFB}|MovieRental.Domain\\MovieRental.Domain.csproj|d:\\qinshift\\proekti\\homeworks\\mvc_homeworks\\homework01\\movierental\\movierental.domain\\enums\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E77CA63E-D9C4-4533-B14B-0671477E7CFB}|MovieRental.Domain\\MovieRental.Domain.csproj|solutionrelative:movierental.domain\\enums\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08AFD57D-9669-4259-A240-53316FAF05BE}|MovieRental.DataAccess\\MovieRental.DataAccess.csproj|d:\\qinshift\\proekti\\homeworks\\mvc_homeworks\\homework01\\movierental\\movierental.dataaccess\\movierentalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08AFD57D-9669-4259-A240-53316FAF05BE}|MovieRental.DataAccess\\MovieRental.DataAccess.csproj|solutionrelative:movierental.dataaccess\\movierentalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24378ABE-0CE8-4563-B10A-FFDBCFC95713}|MovieRental\\MovieRental.csproj|d:\\qinshift\\proekti\\homeworks\\mvc_homeworks\\homework01\\movierental\\movierental\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -138,89 +146,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RegisterController.cs",
-              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Controllers\\RegisterController.cs",
-              "RelativeDocumentMoniker": "MovieRental\\Controllers\\RegisterController.cs",
-              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Controllers\\RegisterController.cs",
-              "RelativeToolTip": "MovieRental\\Controllers\\RegisterController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAuwDMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T22:31:37.051Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RentalController.cs",
-              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Controllers\\RentalController.cs",
-              "RelativeDocumentMoniker": "MovieRental\\Controllers\\RentalController.cs",
-              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Controllers\\RentalController.cs",
-              "RelativeToolTip": "MovieRental\\Controllers\\RentalController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T22:31:52.827Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "MovieRental\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "MovieRental\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAkwBwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T22:25:40.012Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "MovieRental\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "MovieRental\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAH4AAAAAAAAAAAAowIsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T22:29:59.144Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MovieRental\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MovieRental\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-12T22:34:07.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "MovieRental\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "MovieRental\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-12T22:33:06.359Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Views\\Home\\Details.cshtml",
               "RelativeDocumentMoniker": "MovieRental\\Views\\Home\\Details.cshtml",
@@ -228,103 +158,11 @@
               "RelativeToolTip": "MovieRental\\Views\\Home\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-12T22:33:01.57Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ReturnRentalItemViewModel.cs",
-              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Dtos\\ViewModels\\ReturnRentalItemViewModel.cs",
-              "RelativeDocumentMoniker": "MovieRental.Dtos\\ViewModels\\ReturnRentalItemViewModel.cs",
-              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Dtos\\ViewModels\\ReturnRentalItemViewModel.cs",
-              "RelativeToolTip": "MovieRental.Dtos\\ViewModels\\ReturnRentalItemViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T22:39:03.103Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-12T22:33:01.57Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "MovieRental\\Controllers\\LoginController.cs",
-              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "MovieRental\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T22:30:40.559Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Program.cs",
-              "RelativeDocumentMoniker": "MovieRental\\Program.cs",
-              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Program.cs",
-              "RelativeToolTip": "MovieRental\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T22:34:36.02Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Views\\Register\\Index.cshtml",
-              "RelativeDocumentMoniker": "MovieRental\\Views\\Register\\Index.cshtml",
-              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Views\\Register\\Index.cshtml",
-              "RelativeToolTip": "MovieRental\\Views\\Register\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-12T22:33:25.668Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ReturnList.cshtml",
-              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Views\\Rental\\ReturnList.cshtml",
-              "RelativeDocumentMoniker": "MovieRental\\Views\\Rental\\ReturnList.cshtml",
-              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Views\\Rental\\ReturnList.cshtml",
-              "RelativeToolTip": "MovieRental\\Views\\Rental\\ReturnList.cshtml",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-12T22:33:51.868Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "MovieRental\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "MovieRental\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-12T22:34:24.168Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "MovieRental\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "MovieRental\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-12T22:34:25.199Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "MovieRental\\Views\\_ViewImports.cshtml",
@@ -332,12 +170,11 @@
               "RelativeToolTip": "MovieRental\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-12T22:34:29.659Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-12T22:34:29.659Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "MovieRental\\Views\\_ViewStart.cshtml",
@@ -345,103 +182,37 @@
               "RelativeToolTip": "MovieRental\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-12T22:34:30.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-12T22:34:30.778Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Views\\Login\\Index.cshtml",
-              "RelativeDocumentMoniker": "MovieRental\\Views\\Login\\Index.cshtml",
-              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Views\\Login\\Index.cshtml",
-              "RelativeToolTip": "MovieRental\\Views\\Login\\Index.cshtml",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-12T22:33:09.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Views\\Account\\Index.cshtml",
-              "RelativeDocumentMoniker": "MovieRental\\Views\\Account\\Index.cshtml",
-              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Views\\Account\\Index.cshtml",
-              "RelativeToolTip": "MovieRental\\Views\\Account\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-12T22:32:56.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "UserRegisterViewModel.cs",
-              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Dtos\\ViewModels\\UserRegisterViewModel.cs",
-              "RelativeDocumentMoniker": "MovieRental.Dtos\\ViewModels\\UserRegisterViewModel.cs",
-              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Dtos\\ViewModels\\UserRegisterViewModel.cs",
-              "RelativeToolTip": "MovieRental.Dtos\\ViewModels\\UserRegisterViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Program.cs",
+              "RelativeDocumentMoniker": "MovieRental\\Program.cs",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Program.cs",
+              "RelativeToolTip": "MovieRental\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T22:32:50.547Z",
+              "WhenOpened": "2025-08-12T22:34:36.02Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "UserLoginViewModel.cs",
-              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Dtos\\ViewModels\\UserLoginViewModel.cs",
-              "RelativeDocumentMoniker": "MovieRental.Dtos\\ViewModels\\UserLoginViewModel.cs",
-              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Dtos\\ViewModels\\UserLoginViewModel.cs",
-              "RelativeToolTip": "MovieRental.Dtos\\ViewModels\\UserLoginViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "DatabaseSeeder.cs",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.DataAccess\\DatabaseSeeder.cs",
+              "RelativeDocumentMoniker": "MovieRental.DataAccess\\DatabaseSeeder.cs",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.DataAccess\\DatabaseSeeder.cs",
+              "RelativeToolTip": "MovieRental.DataAccess\\DatabaseSeeder.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAArwDAAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T22:32:49.095Z",
+              "WhenOpened": "2025-08-13T21:11:09.074Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Domain\\Models\\User.cs",
-              "RelativeDocumentMoniker": "MovieRental.Domain\\Models\\User.cs",
-              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Domain\\Models\\User.cs",
-              "RelativeToolTip": "MovieRental.Domain\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T22:32:37.667Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Rental.cs",
-              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Domain\\Models\\Rental.cs",
-              "RelativeDocumentMoniker": "MovieRental.Domain\\Models\\Rental.cs",
-              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Domain\\Models\\Rental.cs",
-              "RelativeToolTip": "MovieRental.Domain\\Models\\Rental.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T22:32:36.643Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Domain\\Models\\Movie.cs",
-              "RelativeDocumentMoniker": "MovieRental.Domain\\Models\\Movie.cs",
-              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Domain\\Models\\Movie.cs",
-              "RelativeToolTip": "MovieRental.Domain\\Models\\Movie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T22:32:36.052Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 4,
               "Title": "Cast.cs",
               "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Domain\\Models\\Cast.cs",
               "RelativeDocumentMoniker": "MovieRental.Domain\\Models\\Cast.cs",
@@ -454,72 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Domain\\Models\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "MovieRental.Domain\\Models\\BaseEntity.cs",
-              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Domain\\Models\\BaseEntity.cs",
-              "RelativeToolTip": "MovieRental.Domain\\Models\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T22:32:34.678Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "SubscriptionType.cs",
-              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Domain\\Enums\\SubscriptionType.cs",
-              "RelativeDocumentMoniker": "MovieRental.Domain\\Enums\\SubscriptionType.cs",
-              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Domain\\Enums\\SubscriptionType.cs",
-              "RelativeToolTip": "MovieRental.Domain\\Enums\\SubscriptionType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T22:32:31.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Part.cs",
-              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Domain\\Enums\\Part.cs",
-              "RelativeDocumentMoniker": "MovieRental.Domain\\Enums\\Part.cs",
-              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Domain\\Enums\\Part.cs",
-              "RelativeToolTip": "MovieRental.Domain\\Enums\\Part.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T22:32:30.293Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Language.cs",
-              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Domain\\Enums\\Language.cs",
-              "RelativeDocumentMoniker": "MovieRental.Domain\\Enums\\Language.cs",
-              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Domain\\Enums\\Language.cs",
-              "RelativeToolTip": "MovieRental.Domain\\Enums\\Language.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T22:32:29.63Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Genre.cs",
-              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Domain\\Enums\\Genre.cs",
-              "RelativeDocumentMoniker": "MovieRental.Domain\\Enums\\Genre.cs",
-              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Domain\\Enums\\Genre.cs",
-              "RelativeToolTip": "MovieRental.Domain\\Enums\\Genre.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T22:32:28.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 3,
               "Title": "MovieRentalContext.cs",
               "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.DataAccess\\MovieRentalContext.cs",
               "RelativeDocumentMoniker": "MovieRental.DataAccess\\MovieRentalContext.cs",
@@ -532,7 +238,310 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Domain\\Enums\\Genre.cs",
+              "RelativeDocumentMoniker": "MovieRental.Domain\\Enums\\Genre.cs",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Domain\\Enums\\Genre.cs",
+              "RelativeToolTip": "MovieRental.Domain\\Enums\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T22:32:28.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Language.cs",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Domain\\Enums\\Language.cs",
+              "RelativeDocumentMoniker": "MovieRental.Domain\\Enums\\Language.cs",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Domain\\Enums\\Language.cs",
+              "RelativeToolTip": "MovieRental.Domain\\Enums\\Language.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T22:32:29.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MovieRental\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MovieRental\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-12T22:33:06.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MovieRental\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MovieRental\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-12T22:34:07.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MovieRental\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MovieRental\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAowIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T22:29:59.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MovieRental\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MovieRental\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T22:25:40.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RentalController.cs",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Controllers\\RentalController.cs",
+              "RelativeDocumentMoniker": "MovieRental\\Controllers\\RentalController.cs",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Controllers\\RentalController.cs",
+              "RelativeToolTip": "MovieRental\\Controllers\\RentalController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T22:31:52.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\appsettings.json",
+              "RelativeDocumentMoniker": "MovieRental\\appsettings.json",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\appsettings.json",
+              "RelativeToolTip": "MovieRental\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-13T15:38:16.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "MovieRental\\Controllers\\RegisterController.cs",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "MovieRental\\Controllers\\RegisterController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T22:31:37.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReturnRentalItemViewModel.cs",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Dtos\\ViewModels\\ReturnRentalItemViewModel.cs",
+              "RelativeDocumentMoniker": "MovieRental.Dtos\\ViewModels\\ReturnRentalItemViewModel.cs",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Dtos\\ViewModels\\ReturnRentalItemViewModel.cs",
+              "RelativeToolTip": "MovieRental.Dtos\\ViewModels\\ReturnRentalItemViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T22:39:03.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "MovieRental\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "MovieRental\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T22:30:40.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Views\\Register\\Index.cshtml",
+              "RelativeDocumentMoniker": "MovieRental\\Views\\Register\\Index.cshtml",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Views\\Register\\Index.cshtml",
+              "RelativeToolTip": "MovieRental\\Views\\Register\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-12T22:33:25.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ReturnList.cshtml",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Views\\Rental\\ReturnList.cshtml",
+              "RelativeDocumentMoniker": "MovieRental\\Views\\Rental\\ReturnList.cshtml",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Views\\Rental\\ReturnList.cshtml",
+              "RelativeToolTip": "MovieRental\\Views\\Rental\\ReturnList.cshtml",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-12T22:33:51.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "MovieRental\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "MovieRental\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-12T22:34:24.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "MovieRental\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "MovieRental\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-12T22:34:25.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "MovieRental\\Views\\Login\\Index.cshtml",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "MovieRental\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-12T22:33:09.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "MovieRental\\Views\\Account\\Index.cshtml",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "MovieRental\\Views\\Account\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-12T22:32:56.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserRegisterViewModel.cs",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Dtos\\ViewModels\\UserRegisterViewModel.cs",
+              "RelativeDocumentMoniker": "MovieRental.Dtos\\ViewModels\\UserRegisterViewModel.cs",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Dtos\\ViewModels\\UserRegisterViewModel.cs",
+              "RelativeToolTip": "MovieRental.Dtos\\ViewModels\\UserRegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T22:32:50.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserLoginViewModel.cs",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Dtos\\ViewModels\\UserLoginViewModel.cs",
+              "RelativeDocumentMoniker": "MovieRental.Dtos\\ViewModels\\UserLoginViewModel.cs",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Dtos\\ViewModels\\UserLoginViewModel.cs",
+              "RelativeToolTip": "MovieRental.Dtos\\ViewModels\\UserLoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T22:32:49.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MovieRental.Domain\\Models\\User.cs",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Domain\\Models\\User.cs",
+              "RelativeToolTip": "MovieRental.Domain\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T22:32:37.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Rental.cs",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Domain\\Models\\Rental.cs",
+              "RelativeDocumentMoniker": "MovieRental.Domain\\Models\\Rental.cs",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Domain\\Models\\Rental.cs",
+              "RelativeToolTip": "MovieRental.Domain\\Models\\Rental.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T22:32:36.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Domain\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MovieRental.Domain\\Models\\Movie.cs",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Domain\\Models\\Movie.cs",
+              "RelativeToolTip": "MovieRental.Domain\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T22:32:36.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Domain\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "MovieRental.Domain\\Models\\BaseEntity.cs",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Domain\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "MovieRental.Domain\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T22:32:34.678Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 30,
+              "Title": "SubscriptionType.cs",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Domain\\Enums\\SubscriptionType.cs",
+              "RelativeDocumentMoniker": "MovieRental.Domain\\Enums\\SubscriptionType.cs",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Domain\\Enums\\SubscriptionType.cs",
+              "RelativeToolTip": "MovieRental.Domain\\Enums\\SubscriptionType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T22:32:31.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Part.cs",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Domain\\Enums\\Part.cs",
+              "RelativeDocumentMoniker": "MovieRental.Domain\\Enums\\Part.cs",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental.Domain\\Enums\\Part.cs",
+              "RelativeToolTip": "MovieRental.Domain\\Enums\\Part.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T22:32:30.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "MovieRental\\Models\\ErrorViewModel.cs",
@@ -540,12 +549,11 @@
               "RelativeToolTip": "MovieRental\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T22:32:14.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-12T22:32:14.436Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "BaseController.cs",
               "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\mvc_homeworks\\homework01\\MovieRental\\MovieRental\\Controllers\\BaseController.cs",
               "RelativeDocumentMoniker": "MovieRental\\Controllers\\BaseController.cs",
@@ -553,8 +561,7 @@
               "RelativeToolTip": "MovieRental\\Controllers\\BaseController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T22:26:26.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-12T22:26:26.606Z"
             }
           ]
         }
